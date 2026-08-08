@@ -20,3 +20,30 @@ console.log(pi);
 //typeof is an operator the gives types of data stored in variable
 console.log(typeof name);
 console.log(typeof age);
+
+
+/*
+
+//js datatypes can be divided into 2 categories
+
+#1(pimitive){
+    string
+    number
+    boolean
+    undifined
+    null
+    symbol
+    bigint
+
+    //all stored in stak memory
+}
+
+#2(reference){
+    object
+    array
+    function
+
+    //all stored in heap memory
+}
+
+*/
